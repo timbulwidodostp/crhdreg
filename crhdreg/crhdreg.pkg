@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'crhdreg': Executes estimation of high-dimensional regressions based on cluster-robust double/debiased machine learning (DML) Use crhdreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f crhdreg.ado
+f crhdreg.sthlp
